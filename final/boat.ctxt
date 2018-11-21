@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=startMonth\ startDay\ endMonth\ endDay\ boat
+comment0.target=void\ finishPurchase(int,\ int,\ int,\ int,\ java.lang.String)
+comment1.params=boat\ days
+comment1.target=double\ getPrice(int,\ int)
+comment2.params=
+comment2.target=int\ getBoat()
+comment3.params=
+comment3.target=int\ getMonth1()
+comment4.params=month
+comment4.target=int\ getDay1(int)
+numComments=5
