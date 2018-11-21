@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=blargh
+comment0.target=NumberCruncher(int)
+comment1.params=
+comment1.target=int\ single()
+comment2.params=
+comment2.target=int\ duble()
+comment3.params=
+comment3.target=int\ triple()
+comment4.params=
+comment4.target=int\ square()
+comment5.params=
+comment5.target=int\ cube()
+numComments=6
