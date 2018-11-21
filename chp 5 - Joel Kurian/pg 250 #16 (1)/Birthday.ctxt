@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=month\ day
+comment0.target=int\ findTotal(int,\ int)
+numComments=1
