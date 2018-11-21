@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=eh
+comment0.target=TaxWhiz(double)
+comment1.params=purchase
+comment1.target=double\ calcTax(double)
+numComments=2

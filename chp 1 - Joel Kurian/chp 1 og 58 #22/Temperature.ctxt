@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=blech
+comment0.target=Temperature(double)
+comment1.params=
+comment1.target=double\ giveFahrenheit()
+comment2.params=
+comment2.target=double\ giveCelsius()
+numComments=3
