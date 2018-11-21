@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ giveFahrenheit()
+comment1.params=
+comment1.target=void\ giveCelsius()
+comment2.params=min\ max
+comment2.target=void\ CelsiusTable(int,\ int)
+comment3.params=min\ max
+comment3.target=void\ FahrenheitTable(int,\ int)
+numComments=4
